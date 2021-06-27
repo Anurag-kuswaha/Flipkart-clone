@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(255, 255, 255);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+/*
+ #homeButton{
+  background-color:rgb(15, 114, 226);
+  margin:20px 10px 20px 10px;
+ 
+  border-radius: 5px;
+
+}
+
+
+.redirectButton{
+  color:chartreuse;
+} */
+#brandName {
+  color: black;
+ font-size: 3em;
+font-family: 'Sacramento', cursive;
+ 
+}
+#test {
+  background-color: blueviolet;
 }

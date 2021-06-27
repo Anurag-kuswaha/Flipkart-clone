@@ -1,0 +1,59 @@
+
+
+#pdp {
+    background-color: rgb(255, 255, 255);
+ /*background-color: #4D774E; */
+
+}
+ /* image of the product  */
+#pdpImage img{
+  width: 400px;
+  height:450px;
+}
+#pdpImage button {
+  width:200px;
+  height:70px;
+  margin: 15px 2px 0px 2px;
+  
+}
+
+/* title of the product  */
+#pdpDescription h2 {
+   color: black;
+   text-align: left;
+}
+
+/* id of the product  */
+
+#pdpDescription h6 {
+    margin-top:20px;
+   margin-right:50px;
+   color:sandybrown;
+ }
+
+/* Price of the product  */
+
+ #pdpDescription h1 {
+   
+   color:green ;
+ }
+
+ /* Category of the product  */
+
+#pdpDescription h3 {
+    margin:100px 0px 30px 0px;
+     color: black;
+    
+    }
+ 
+
+#pdpDescription p {
+    margin-top: 50px;
+    margin-right: 30px;
+   color:black;
+}
+
+#intrest {
+    color:hotpink;
+      margin:20px 0px 20px 0px;
+}
